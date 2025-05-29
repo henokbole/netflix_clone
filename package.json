@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/abraham0917402502/Netflix-Clone",
+  "homepage": "https://github.com/henokbole/netflix_clone",
   "name": "netflix-clone-2024",
   "private": true,
   "version": "0.0.0",
@@ -18,6 +18,7 @@
     "@mui/icons-material": "^6.1.4",
     "@mui/material": "^6.1.4",
     "axios": "^1.7.7",
+    "dist": "^0.1.2",
     "movie-trailer": "^3.2.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -32,7 +33,7 @@
     "eslint-plugin-react": "^7.37.0",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.12",
-    "gh-pages": "^6.2.0",
+    "gh-pages": "^6.3.0",
     "github-pages": "^3.0.2",
     "globals": "^15.9.0",
     "vite": "^5.4.8",
